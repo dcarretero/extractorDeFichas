@@ -1,0 +1,84 @@
+Número ONU: 0315
+Nip: 
+Etiqueta: 1
+Materia: INFLAMADORES (ENCENDEDORES)
+Número Ficha: 1-03
+
+#  MATERIAS Y OBJETOS EXPLOSIVOS (CLASE 1) CON RIESGO DE INCENDIO (DIVISIÓN 1.3)
+
+0315
+
+## Características
+
+  * Materias y objetos capaces de producir una sucesión de explosiones con efectos menores de onda expansiva y de proyecciones, o de ambos efectos pero sin riesgo de explosión en masa. Su combustión da lugar a un aumento considerable de la radiación térmica. (Como por ejemplo; municiones, cartuchos, bengalas, mechas, cohetes, propulsores, señales, artificios pirotécnicos, etc.)
+
+
+
+## Peligros
+
+  * Riesgo de reacción en caso de calentamiento o combustión de la carga.
+  * Peligro de explosiones menores: Sucesivas explosiones moderadas con onda de presión que pueden causar daños.
+  * Peligro de proyecciones de fragmentos incandescentes que pueden causar incendios y daños secundarios.
+  * Peligro de incendio con emisión de gases incandescentes y llamaradas con un aumento considerable de la radiación térmica.
+  * **Si se trata del número ONU 0249– REACCIÓN CON EL AGUA**.
+
+
+
+## Protección personal
+
+  * Equipo de protección ante las proyecciones y vestuario antiincendio.
+
+
+
+## Intervención
+
+  1. General
+     * **PELIGRO PARA LA POBLACIÓN**. Se debe advertir a la población próxima. Considerar la posibilidad de evacuación.
+     * Establecer inmediatamente una zona de seguridad y hacer uso de una posición protegida.
+     * Reducir al mínimo el número de personas en el área de riesgo.
+     * No fumar.
+     * No usar aparatos eléctricos en las proximidades de la carga.
+     * Evitar y eliminar toda fuente de llama, calor o cualquier elemento que pueda producir chispas.
+     * No tocar materias u objetos caídos o proyectados.
+     * Buscar inmediatamente asesoramiento de un experto.
+  2. Derrames
+     * Acotar la zona del vertido. Evitar el paso de vehículos o personas.
+     * No pisar el vertido.
+     * Evitar choques y fricciones, golpes y movimientos bruscos.
+     * Evitar que el producto vertido llegue al medio natural.
+     * No tocar ni retirar el material, hasta conocer el procedimiento adecuado.
+  3. Incendio
+     * Advertir a la población más próxima y evacuar un área de riesgo de al menos 250 metros de radio.
+     * Mantener el área vigilada y despejada durante al menos 6 horas.
+     * AFECTA A LA CARGA.
+       * No apagar el fuego, dejarlo arder, respetando los servicios de intervención una distancia de 50 m.
+     * SOLO SI EL INCENDIO NO AFECTA LA CARGA.
+       * Trabajar desde una posición protegida para reducir el riesgo del personal. Utilizar los medios disponibles para extinguir el incendio, es recomendable el uso de monitores o lanzas autónomas.
+       * Evitar que afecte a la carga.
+       * **Si se trata del número ONU 0249 – NO UTILIZAR AGUA PARA LA EXTINCIÓN**.
+
+
+
+## Primeros auxilios
+
+  * En caso de quemaduras, enfriar inmediatamente la piel afectada con agua fría durante el máximo tiempo posible. No retirar las prendas adheridas a la piel.
+
+
+
+## Precauciones para la recuperación del producto
+
+  * Recoger manualmente el producto vertido, usando herramientas que no provoquen chispas de material no ferroso, como cobre, latón o madera.
+  * En caso de rotura de embalaje, cerrar éste con cinta adhesiva. Depositar los restos en bolsas de plástico, y éstas en cajas de cartón o envases similares a los originales, que se cierran con cinta adhesiva o cualquier otro medio adecuado.
+  * Depositar los restos en lugar ventilado y lejos de productos ácidos, inflamables, oxidantes, etc. hasta el momento de su traslado, que se efectuará de acuerdo con el asesoramiento especializado correspondiente.
+  * **Si se trata del número ONU 0249 – MANTENER SECA LA CARGA. EVITAR EL CONTACTO CON AGUA.**
+
+
+
+## Precauciones después de la intervención
+
+  1. Ropa contaminada 
+     * No son necesarias precauciones especiales concluida la intervención.
+  2. Limpieza de equipo 
+     * No requiere precauciones especiales.
+
+

@@ -1,0 +1,84 @@
+Número ONU: 2879
+Nip: X886
+Etiqueta: 8+6.1
+Materia: OXICLORURO DE SELENIO
+Número Ficha: 8-52
+
+#  MATERIA MUY CORROSIVA Y TÓXICA. 8-52 
+
+X8862879
+
+## Características
+
+  * Desprende emanaciones peligrosas.
+  * Tóxico en caso de ingestión, inhalación o absorción por la piel.
+  * Reacción violenta con el agua desprendiendo gases peligrosos.
+  * Muy corrosivo, causa graves daños en la piel, los ojos y las vías respiratorias.
+  * Líquido o sólido.
+  * Punto de inflamación por encima de 61ºC o no inflamable.
+
+
+
+## Peligros
+
+  * El calentamiento del/de los recipiente/s provocará aumento de presión con riesgo de estallido y la consiguiente explosión (BLEVE).
+  * Emite emanaciones tóxicas y corrosivas, incluso cuando arde.
+  * Puede atacar a los metales y producir gas hidrógeno que puede formar mezcla explosiva con el aire.
+  * El vapor puede ser invisible y es más pesado que el aire. Se difunde a ras de suelo y puede introducirse en alcantarillas y sótanos.
+
+
+
+## Protección personal
+
+  * Traje hermético a los gases.
+
+
+
+## Intervención
+
+  1. General
+     * **PELIGRO PARA LA POBLACIÓN** – Advertir a la población próxima que permanezca dentro de casa con puertas y ventanas cerradas. Parar cualquier sistema de ventilación. Considerar la posibilidad de evacuación, ante un peligro inmediato.
+     * Mantener seca la carga. Evitar el contacto con agua.
+     * Mantenerse en el lado desde donde sopla el viento. Ponerse equipo protector antes de entrar en el área de peligro.
+     * Reducir al mínimo el número de personas en el área de riesgo.
+  2. Derrames
+     * Detener las fugas si es posible.
+     * Contener el vertido por cualquier medio disponible.
+     * Absorber el líquido en arena seca o en cualquier otro material seco apropiado.
+     * Si la materia se ha introducido en una corriente de agua o en una alcantarilla, informar a la autoridad responsable.
+     * Ventilar las alcantarillas y los sótanos cuando no haya riesgo para el personal o la población.
+     * Reducir la nube de vapor con agua pulverizada.
+  3. Incendio
+     * Extinguir con un agente seco.
+     * No utilizar agua ni espuma para la extinción.
+     * Alejar los recipientes no dañados de la radiación térmica.
+     * Utilizar agua pulverizada, si es posible, para reducir las emanaciones del incendio.
+
+
+
+## Primeros auxilios
+
+  * Si la materia se ha introducido en los ojos, lavarlos con agua durante al menos 15 minutos y buscar asistencia médica inmediata.
+  * Quitarse inmediatamente la ropa contaminada y lavar la piel afectada con agua abundante.
+  * Las personas que hayan estado en contacto con la materia o hayan inhalado emanaciones han de recibir asistencia médica inmediata. Aportar toda la información disponible sobre el producto.
+  * Evitar la reanimación boca a boca. Utilizar otros métodos, preferiblemente con oxígeno o con aparatos con aire comprimido.
+
+
+
+## Precauciones para la recuperación del producto
+
+  * No utilizar equipo de recuperación estándar. Solicitar inmediatamente asesoramiento especializado.
+  * Recoger el producto derramado en un contenedor herméticamente sellado.
+
+
+
+## Precauciones después de la intervención
+
+  1. Ropa contaminada 
+     * Lavar copiosamente con agua el traje y el aparato de respiración contaminados antes de quitarse la máscara y el traje.
+     * Utilizar un traje de protección química y un aparato de respiración autónomo mientras se desviste a los compañeros contaminados o se maneja equipo contaminado.
+     * Contener los vertidos de la operación de lavado o descontaminación.
+  2. Limpieza de equipo 
+     * Empapar con agua y solicitar asesoramiento especializado antes de su transporte desde el lugar del incidente.
+
+

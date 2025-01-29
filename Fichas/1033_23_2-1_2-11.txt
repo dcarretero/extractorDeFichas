@@ -1,0 +1,91 @@
+Número ONU: 1033
+Nip: 23
+Etiqueta: 2.1
+Materia: ETER METILICO
+Número Ficha: 2-11
+
+#  GAS LICUADO INFLAMABLE. 2-11 
+
+231033
+
+## Características
+
+  * Peligroso para la piel, los ojos y las vías respiratorias.
+  * Forma una mezcla explosiva con el aire.
+  * Asfixiante: el gas puede asfixiar sin que el afectado lo advierta.
+
+
+
+## Peligros
+
+  * El calentamiento de los recipientes provoca aumento de presión con riesgo de estallido e inmediata liberación de una nube de vapor expandido que puede incendiarse provocando una explosión (VCE) y la creación de una onda de presión.
+  * El contacto con el líquido provoca congelación y daño grave a los ojos.
+  * Emite emanaciones tóxicas e irritantes al calentarse o arder.
+  * El gas puede ser invisible y puede introducirse en alcantarillas y sótanos o desplazar el aire de los espacios confinados.
+  * Puede ser narcótico y provocar inconsciencia.
+
+
+
+## Protección personal
+
+  * Traje de protección química.
+  * Aparato de respiración autónomo.
+  * Proteger al personal del calor irradiado con una cortina de agua pulverizada y otras medidas protectoras contra el calor.
+  * Ropa interior aislante y guantes de un tejido grueso o de cuero.
+  * Considerar utilizar ropa normalizada para lucha contra el fuego, además del traje.
+
+
+
+## Intervención
+
+  1. General
+     * Mantenerse en el lado desde donde sopla el viento.
+     * No fumar, eliminar todas las fuentes de ignición.
+     * **PELIGRO PARA LA POBLACIÓN** \- Advertir a la población próxima que permanezca dentro de casa con puertas y ventanas cerradas. Parar cualquier sistema de ventilación. Considerar la posibilidad de evacuación, ante un peligro inmediato.
+     * Reducir al mínimo el número de personas en el área de riesgo.
+     * Advertir a la gente de que abandone y no vuelva a entrar en los sótanos, alcantarillas y otros espacios confinados.
+  2. Derrames
+     * Detener las fugas si es posible.
+     * Contener el vertido por cualquier medio disponible.
+     * Comprobar los límites de explosividad.
+     * Utilizar herramientas manuales de baja producción de chispas y equipo intrínsecamente seguro.
+     * Reducir o dispersar la nube de gas con agua pulverizada. No permitir que el agua pulverizada entre en contacto con el producto líquido.
+     * Si la materia se ha introducido en una corriente de agua o en una alcantarilla, informar a la autoridad responsable.
+     * Ventilar las alcantarillas y los sótanos cuando no haya riesgo para el personal o la población.
+     * Si es necesario para reducir el peligro de vapor inflamable, recubrir el charco de líquido, por ejemplo con espuma.
+  3. Incendio
+     * Mantener el/los recipiente/s refrigerado/s con agua.
+     * Interrumpir el suministro de gas si se puede realizar con seguridad.
+     * NO extinguir las llamas del gas que se escapa, a menos que sea ABSOLUTAMENTE necesario.
+     * Trabajar desde una posición protegida para reducir el riesgo del personal. Utilizar monitores o lanzas autónomas.
+     * Extinguir con agua pulverizada (spray) o con polvo seco.
+     * No utilizar chorros de agua para la extinción.
+     * Utilizar agua pulverizada, si es posible, para reducir las emanaciones del incendio.
+     * Evitar derrames innecesarios como consecuencia de la aplicación de medios de extinción que puedan ser contaminantes.
+
+
+
+## Primeros auxilios
+
+  * Si la materia se ha introducido en los ojos, lavarlos con agua durante al menos 15 minutos y buscar asistencia médica inmediata.
+  * Quitarse inmediatamente la ropa contaminada y lavar la piel afectada con agua abundante.
+  * Las personas que hayan estado en contacto con la materia o hayan inhalado emanaciones han de recibir asistencia médica inmediata. Aportar toda la información disponible sobre el producto.
+  * En caso de quemaduras, enfriar inmediatamente la piel afectada con agua fría durante el máximo tiempo posible. No retirar las prendas adheridas a la piel.
+  * Descongelar cuidadosamente con agua fría las partes congeladas.
+
+
+
+## Precauciones para la recuperación del producto
+
+  * No utilizar equipo de recuperación estándar. Solicitar inmediatamente asesoramiento especializado.
+
+
+
+## Precauciones después de la intervención
+
+  1. Ropa contaminada 
+     * Lavar copiosamente con agua el traje y el aparato de respiración contaminados antes de quitarse la máscara y el traje.
+  2. Limpieza de equipo 
+     * Empapar con agua antes de su transporte desde el lugar del incidente.
+
+

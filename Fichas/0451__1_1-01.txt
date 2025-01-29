@@ -1,0 +1,81 @@
+Número ONU: 0451
+Nip: 
+Etiqueta: 1
+Materia: TORPEDOS con carga explosiva
+Número Ficha: 1-01
+
+#  MATERIAS Y OBJETOS EXPLOSIVOS (CLASE 1) CON RIESGO DE EXPLOSIÓN EN MASA (DIVISIÓN 1.1) 
+
+0451
+
+## Características
+
+  * Materias y objetos capaces de producir una explosión en masa con la consiguiente liberación instantánea de energía ocasionando daños, por efecto de onda de presión con posibles proyecciones de fragmentos. (Como por ejemplo; Cartuchos, municiones, detonadores, mechas, explosivos, señales, espoletas, inflamadores, artificios pirotécnicos, etc.)
+
+
+
+## Peligros
+
+  * Riesgo de reacción violenta en caso de calentamiento, combustión o choque violento que afecte a la carga.
+  * Peligro de explosión violenta en masa afectando instantáneamente a toda la carga, cuya onda puede causar graves daños en un área de varios cientos de metros.
+  * Peligro de proyecciones de fragmentos o piezas incandescentes a alta velocidad en un área de varios cientos de metros, que pueden causar daños e incendios secundarios.
+
+
+
+## Protección personal
+
+  * Equipo de protección ante las proyecciones y vestuario antiincendio.
+
+
+
+## Intervención
+
+  1. General
+     * **PELIGRO PARA LA POBLACIÓN**. Se debe advertir a la población próxima y evacuar inmediatamente el área de riesgo.
+     * Establecer inmediatamente una zona de seguridad y hacer uso de una posición protegida.
+     * Reducir al mínimo el número de personas en el área de riesgo.
+     * No fumar.
+     * No usar aparatos eléctricos en las proximidades de la carga.
+     * Evitar y eliminar toda fuente de llama, calor o cualquier elemento que pueda producir chispas.
+     * No tocar materias u objetos caídos o proyectados.
+     * Buscar inmediatamente asesoramiento de un experto.
+  2. Derrames
+     * Acotar la zona del vertido. Evitar el paso de vehículos o personas.
+     * No pisar el vertido.
+     * En caso de exudación, el producto es más sensible, extremar las precauciones.
+     * Evitar choques y fricciones, golpes y movimientos bruscos.
+     * Evitar que el producto vertido llegue al medio natural.
+     * No tocar ni retirar el material, hasta conocer el procedimiento adecuado.
+  3. Incendio
+     * Advertir a la población más próxima y evacuar un área de riesgo de al menos 1.000 metros de radio.
+     * Mantener el área vigilada y despejada al menos 6 horas.
+     * AFECTA A LA CARGA.
+       * No apagar el fuego, dejarlo arder, respetando los servicios de intervención una distancia de 500m.
+     * SOLO SI EL INCENDIO NO AFECTA A LA CARGA.
+       * Trabajar desde una posición protegida para reducir el riesgo del personal. Utilizar los medios disponibles para extinguir el incendio, es recomendable el uso de monitores o lanzas autónomas.
+       * Evitar que afecte a la carga.
+
+
+
+## Primeros auxilios
+
+  * En caso de quemaduras, enfriar inmediatamente la piel afectada con agua fría durante el máximo tiempo posible. No retirar las prendas adheridas a la piel.
+
+
+
+## Precauciones para la recuperación del producto
+
+  * Recoger manualmente el producto vertido, usando herramientas que no provoquen chispas de material no ferroso, como cobre, latón o madera.
+  * En caso de rotura de embalaje, cerrar éste con cinta adhesiva. Depositar los restos en bolsas de plástico, y éstas en cajas de cartón o envases similares a los originales, que se cierran con cinta adhesiva o cualquier otro medio adecuado.
+  * Depositar los restos en lugar ventilado y lejos de productos ácidos, inflamables, oxidantes, etc. hasta el momento de su traslado, que se efectuará de acuerdo con el asesoramiento especializado correspondiente.
+
+
+
+## Precauciones después de la intervención
+
+  1. Ropa contaminada 
+     * No son necesarias precauciones especiales concluida la intervención.
+  2. Limpieza de equipo 
+     * No requiere precauciones especiales.
+
+

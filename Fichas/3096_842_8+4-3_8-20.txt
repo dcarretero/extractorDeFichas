@@ -1,0 +1,79 @@
+Número ONU: 3096
+Nip: 842
+Etiqueta: 8+4.3
+Materia: SÓLIDO CORROSIVO, QUE REACCIONA CON EL AGUA, N.E.P.-Grupos de embalaje I y II
+Número Ficha: 8-20
+
+#  SÓLIDO CORROSIVO Y REACTIVO. 8-20 
+
+8423096
+
+## Características
+
+  * Corrosivo, causa daños en la piel, los ojos y las vías respiratorias.
+  * Reacciona con el agua, emitiendo gases inflamables.
+
+
+
+## Peligros
+
+  * Emite emanaciones corrosivas e irritantes, incluso cuando arde.
+  * El calentamiento de los recipientes puede provocar aumento de presión con riesgo de estallido.
+  * Puede atacar a los metales y producir gas hidrógeno que puede formar mezcla explosiva con el aire.
+
+
+
+## Protección personal
+
+  * Traje de protección química.
+  * Aparato de respiración autónomo.
+  * Traje hermético a los gases en la proximidad inmediata de la materia o vapor.
+
+
+
+## Intervención
+
+  1. General
+     * No fumar, eliminar todas las fuentes de ignición.
+     * Mantener seca la carga. Evitar el contacto con agua.
+     * Mantenerse en el lado desde donde sopla el viento. Ponerse equipo protector antes de entrar en el área de peligro.
+     * Reducir al mínimo el número de personas en el área de riesgo.
+  2. Derrames
+     * Detener las fugas si es posible.
+     * Contener el vertido por cualquier medio disponible.
+     * Si la materia se ha introducido en una corriente de agua o en una alcantarilla, informar a la autoridad responsable.
+  3. Incendio
+     * Mantener el/los recipiente/s refrigerado/s con agua.
+     * Extinguir con un agente seco.
+     * No utilizar agua, espuma o dióxido de carbono para la extinción.
+     * Utilizar agua pulverizada, si es posible, para reducir las emanaciones del incendio.
+
+
+
+## Primeros auxilios
+
+  * Si la materia se ha introducido en los ojos, lavarlos con agua durante al menos 15 minutos y buscar asistencia médica inmediata.
+  * Las personas que hayan estado en contacto con la materia o hayan inhalado emanaciones han de recibir asistencia médica inmediata. Aportar toda la información disponible sobre el producto.
+  * En caso de quemaduras, enfriar inmediatamente la piel afectada con agua fría durante el máximo tiempo posible. No retirar las prendas adheridas a la piel.
+  * Quitar inmediatamente las ropas contaminadas y lavar la piel afectada con jabón y agua abundante.
+  * Evitar la reanimación boca a boca. Utilizar otros métodos, preferiblemente con oxígeno o con aparatos con aire comprimido.
+
+
+
+## Precauciones para la recuperación del producto
+
+  * Utilizar equipo resistente a los ácidos.
+  * Recoger el producto derramado en un contenedor provisto de venteos y equipado de un filtro de absorción.
+
+
+
+## Precauciones después de la intervención
+
+  1. Ropa contaminada 
+     * Lavar copiosamente con agua el traje y el aparato de respiración contaminados antes de quitarse la máscara y el traje.
+     * Utilizar un traje de protección química y un aparato de respiración autónomo mientras se desviste a los compañeros contaminados o se maneja equipo contaminado.
+     * Contener los vertidos de la operación de lavado o descontaminación.
+  2. Limpieza de equipo 
+     * Empapar con agua antes de su transporte desde el lugar del incidente.
+
+

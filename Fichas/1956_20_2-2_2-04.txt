@@ -1,0 +1,71 @@
+Número ONU: 1956
+Nip: 20
+Etiqueta: 2.2
+Materia: GAS COMPRIMIDO, N.E.P.
+Número Ficha: 2-04
+
+#  GAS ASFIXIANTE COMPRIMIDO. 2-04 
+
+201956
+
+## Características
+
+  * Asfixiante: el gas puede asfixiar sin que el afectado lo advierta.
+  * No inflamable.
+  * El gas es mucho más pesado que el aire.
+
+
+
+## Peligros
+
+  * El calentamiento de los recipientes provoca aumento de presión con riesgo de estallido y liberación inmediata del gas.
+  * El gas puede ser invisible y puede introducirse en alcantarillas y sótanos o desplazar el aire de los espacios confinados.
+
+
+
+## Protección personal
+
+  * Aparato de respiración autónomo.
+
+
+
+## Intervención
+
+  1. General
+     * Mantenerse en el lado desde donde sopla el viento.
+     * **PELIGRO PARA LA POBLACIÓN** \- Advertir a la población próxima que permanezca dentro de casa con puertas y ventanas cerradas. Parar cualquier sistema de ventilación. Considerar la posibilidad de evacuación, ante un peligro inmediato.
+     * Reducir al mínimo el número de personas en el área de riesgo.
+     * Advertir a la gente de que abandone y no vuelva a entrar en los sótanos, alcantarillas y otros espacios confinados.
+  2. Derrames
+     * Detener las fugas si es posible.
+     * Reducir o dispersar la nube de gas con agua pulverizada.
+     * Si la materia se ha introducido en una corriente de agua o en una alcantarilla, informar a la autoridad responsable.
+     * Ventilar las alcantarillas y los sótanos cuando no haya riesgo para el personal o la población.
+  3. Incendio
+     * Mantener el/los recipiente/s refrigerado/s con agua.
+     * Trabajar desde una posición protegida para reducir el riesgo del personal. Utilizar monitores o lanzas autónomas.
+     * Utilizar agua pulverizada, si es posible, para reducir las emanaciones del incendio.
+     * Evitar derrames innecesarios como consecuencia de la aplicación de medios de extinción que puedan ser contaminantes.
+
+
+
+## Primeros auxilios
+
+  * No son necesarias precauciones especiales.
+
+
+
+## Precauciones para la recuperación del producto
+
+  * No utilizar equipo de recuperación estándar. Solicitar inmediatamente asesoramiento especializado.
+
+
+
+## Precauciones después de la intervención
+
+  1. Ropa contaminada 
+     * No son necesarias precauciones especiales.
+  2. Limpieza de equipo 
+     * No requiere precauciones especiales.
+
+

@@ -1,0 +1,86 @@
+Número ONU: 2919
+Nip: 7-
+Etiqueta: 7X
+Materia: MATERIALES RADIACTIVOS TRANSPORTADOS BAJO AUTORIZACIÓN ESPECIAL, no fisionables o fisionables exceptuados
+Número Ficha: 7-02
+
+# MATERIAS RADIACTIVAS EN BULTOS INDUSTRIALES, TIPO A, TIPO B Y TIPO C.
+
+7-2919
+
+## Características
+
+  * Material en cualquier forma física o química que contiene un isótopo radiactivo no fisionable.
+  * El material puede ser dispersable o no.
+
+
+
+## Peligros
+
+    * Radiológicos
+      * Si no hay daño en la carga
+        * Riesgo de irradiación en función del etiquetado
+        * Bajo- Etiqueta blanca
+        * Moderado-Etiqueta amarilla
+        * No existe riesgo de contaminación
+      * Si hay daño en la carga
+        * Riesgo de irradiación y contaminación
+    * Otros
+      * La radiactividad no altera las otras propiedades de las materias, como puede ser su inflamabilidad.
+      * En función del riesgo secundario asociado (2ª ó 3ª cifra del número de identificación del peligro), se deberá consultar además la ficha principal correspondiente a dicho riesgo.
+
+
+
+## Protección personal
+
+  * Usar guantes y botas.
+  * Traje completo y protectores de cabeza
+  * Aparato de respiración autónomo en caso de incendio.
+
+
+
+## Intervención
+
+  1. General
+     * Mantenerse en el lado desde donde sopla el viento
+     * Reducir al mínimo el número de personas en el área de riesgo.
+     * Identificar y retener a las personas, animales y objetos que han estado expuestas al material radioactivo, hasta la llegada de personal especializado en protección radiológica.
+     * Acotar la zona de riesgo y controlar los accesos, en un radio mínimo de 25 a 50 metros, en el caso de salida de bultos del vehículo, derrame o fuga.
+     * No fumar, eliminar todas las fuentes de ignición.
+     * Reducir al mínimo imprescindible el personal de intervención y limitar su tiempo de permanencia.
+  2. Derrames
+     * Cubrir con plásticos u otros materiales los bultos dañados y el material dispersado.
+     * No tocar los bultos dañados o el material derramado.
+     * En caso de fuga líquida, absorber el líquido con arena o tierra o con cualquier otro material apropiado.
+     * Si la materia se ha introducido en una corriente de agua o en una alcantarilla, informar a la autoridad responsable.
+  3. Incendio
+     * Retirar los bultos no dañados del área del fuego si puede hacerse sin riesgos.
+     * La presencia de material radiactivo no afecta a la eficacia de las técnicas de control de incendio.
+     * Extinguir con el agente adecuado en caso de que exista un riesgo secundario de acuerdo con la ficha correspondiente.
+     * Minimizar en lo posible el uso de agua sobre los bultos dañados Evitar la escorrentía del agua fabricando diques de contención.
+     * No mover los bultos dañados.
+
+
+
+## Primeros auxilios
+
+  * Dar prioridad al rescate y atención médica de las víctimas, la contaminación nunca será un problema grave. Los problemas médicos tienen prioridad sobre los radiológicos.
+  * Cubrir la camilla con un plástico y colocar al herido sobre una sábana o manta, si es posible.
+  * Informar al personal médico que las personas lesionadas pueden estar contaminadas con material radiactivo, para que adopten las medidas necesarias para evitar la dispersión de la contaminación.
+
+
+
+## Precauciones para la recuperación del producto
+
+  * Solicitar asesoramiento a personal especializado en protección radiológica.
+
+
+
+* Antes de reanudar su actividad normal, todo las personas directamente implicadas en la intervención, esperarán a que personal especializado valore la situación.
+* Quitarse la ropa contaminada tan pronto como sea posible e introducirla en bolsas de plástico.
+* Limpieza de equipo 
+
+  * Cubrirlo con plásticos.
+  * Solicitar asesoramiento especializado en protección radiológica tan pronto como sea posible y antes de su reutilización.
+
+

@@ -1,0 +1,93 @@
+Número ONU: 1144
+Nip: 339
+Etiqueta: 3
+Materia: CROTONILENO
+Número Ficha: 3-23
+
+#  LIQUIDO MUY INFLAMABLE. 3-23 
+
+3391144
+
+## Características
+
+  * Puede producir espontáneamente una reacción violenta.
+  * Desprende emanaciones peligrosas.
+  * Punto de inflamación por debajo de 23ºC.
+  * Peligroso para los ojos y vías respiratorias.
+  * Inmiscible o parcialmente miscible con agua (menos del 10%), más ligero que el agua.
+
+
+
+## Peligros
+
+  * El calentamiento del/de los recipiente/s provocará aumento de presión con riesgo de estallido y la consiguiente explosión (BLEVE).
+  * La exposición al calor, la luz, un golpe mecánico o el contacto con otros productos químicos provoca el aumento espontáneo de presión o la auto ignición.
+  * Puede formar una mezcla explosiva con el aire.
+  * Emite emanaciones tóxicas e irritantes al calentarse o arder.
+  * El vapor puede ser invisible y es más pesado que el aire. Se difunde a ras de suelo y puede introducirse en alcantarillas y sótanos.
+  * El calor puede destruir el estabilizante. Solicitar asesoramiento especializado.
+  * Puede ser narcótico y provocar inconsciencia.
+
+
+
+## Protección personal
+
+  * Aparato de respiración autónomo.
+  * Traje de protección química si existe riesgo de contacto personal.
+  * Considerar utilizar ropa normalizada para lucha contra el fuego, además del traje.
+
+
+
+## Intervención
+
+  1. General
+     * Mantenerse en el lado desde donde sopla el viento.
+     * No fumar, eliminar todas las fuentes de ignición.
+     * **PELIGRO PARA LA POBLACIÓN** \- Advertir a la población próxima que permanezca dentro de casa con puertas y ventanas cerradas. Parar cualquier sistema de ventilación. Considerar la posibilidad de evacuación, ante un peligro inmediato.
+     * Trabajar desde una posición protegida para reducir el riesgo del personal. Utilizar monitores o lanzas autónomas.
+     * Reducir al mínimo el número de personas en el área de riesgo.
+  2. Derrames
+     * Detener las fugas si es posible.
+     * Contener el vertido por cualquier medio disponible.
+     * Comprobar los límites de explosividad.
+     * Utilizar herramientas manuales de baja producción de chispas y equipo intrínsecamente seguro.
+     * Absorber el líquido con arena o tierra o con cualquier otro material apropiado, o recubrir con espuma.
+     * Si la materia se ha introducido en una corriente de agua o en una alcantarilla, informar a la autoridad responsable.
+     * Ventilar las alcantarillas y los sótanos cuando no haya riesgo para el personal o la población.
+  3. Incendio
+     * Mantener el/los recipiente/s refrigerado/s con agua.
+     * Extinguir con espuma.
+     * No utilizar chorros de agua ni agua pulverizada (spray), ni polvo seco para la extinción.
+     * Utilizar agua pulverizada, si es posible, para reducir las emanaciones del incendio.
+     * Evitar derrames innecesarios como consecuencia de la aplicación de medios de extinción que puedan ser contaminantes.
+
+
+
+## Primeros auxilios
+
+  * Si la materia se ha introducido en los ojos, lavarlos con agua durante al menos 15 minutos y buscar asistencia médica inmediata.
+  * Las personas que hayan estado en contacto con la materia o hayan inhalado emanaciones han de recibir asistencia médica inmediata. Aportar toda la información disponible sobre el producto.
+  * En caso de quemaduras, enfriar inmediatamente la piel afectada con agua fría durante el máximo tiempo posible. No retirar las prendas adheridas a la piel.
+  * Quitar inmediatamente las ropas contaminadas y lavar la piel afectada con jabón y agua abundante.
+
+
+
+## Precauciones para la recuperación del producto
+
+  * Asegurar la toma de tierra adecuada del equipo de bombeo.
+  * Utilizar bomba/s a prueba de incendio (antideflagrantes). Si funciona con motor eléctrico como mínimo de la clase T3.
+  * Utilizar equipo resistente a los aceites minerales.
+  * Recoger el producto derramado en un contenedor provisto de venteos y equipado de un filtro de absorción.
+
+
+
+## Precauciones después de la intervención
+
+  1. Ropa contaminada 
+     * Lavar copiosamente con agua/detergente el traje y el aparato de respiración contaminados antes de quitarse la máscara y el traje.
+     * Utilizar un traje de protección química y un aparato de respiración autónomo mientras se desviste a los compañeros contaminados o se maneja equipo contaminado.
+     * Contener los vertidos de la operación de lavado o descontaminación.
+  2. Limpieza de equipo 
+     * Empapar con agua/detergente antes de su transporte desde el lugar del incidente.
+
+

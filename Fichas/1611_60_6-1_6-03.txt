@@ -1,0 +1,79 @@
+Número ONU: 1611
+Nip: 60
+Etiqueta: 6.1
+Materia: TETRAFOSFATO DE HEXAETILO
+Número Ficha: 6-03
+
+#  MATERIA TÓXICA. 6-03 
+
+601611
+
+## Características
+
+  * Peligroso para la piel, los ojos y las vías respiratorias.
+  * Tóxico en caso de ingestión, inhalación o absorción por la piel.
+  * Líquido o sólido.
+  * Punto de inflamación por encima de 61ºC o no inflamable.
+
+
+
+## Peligros
+
+  * El calentamiento del/de los recipiente/s provocará aumento de presión con riesgo de estallido y la consiguiente explosión (BLEVE).
+  * Emite emanaciones tóxicas e irritantes, incluso cuando arde.
+  * El vapor puede ser invisible y es más pesado que el aire. Se difunde a ras de suelo y puede introducirse en alcantarillas y sótanos.
+
+
+
+## Protección personal
+
+  * Traje de protección química.
+  * Aparato de respiración autónomo.
+  * Traje hermético a los gases en la proximidad inmediata de la materia o vapor.
+
+
+
+## Intervención
+
+  1. General
+     * Mantenerse en el lado desde donde sopla el viento. Ponerse equipo protector antes de entrar en el área de peligro.
+  2. Derrames
+     * Detener las fugas si es posible.
+     * Contener el vertido por cualquier medio disponible.
+     * Absorber el líquido, en arena o tierra o en cualquier otro material apropiado.
+     * Si la materia se ha introducido en una corriente de agua o en una alcantarilla, informar a la autoridad responsable.
+     * Ventilar las alcantarillas y los sótanos cuando no haya riesgo para el personal o la población.
+  3. Incendio
+     * Mantener el/los recipiente/s refrigerado/s con agua.
+     * Extinguir con agua pulverizada (spray).
+     * No utilizar chorros de agua para la extinción.
+     * Utilizar agua pulverizada, si es posible, para reducir las emanaciones del incendio.
+     * Evitar derrames innecesarios como consecuencia de la aplicación de medios de extinción que puedan ser contaminantes.
+
+
+
+## Primeros auxilios
+
+  * Si la materia se ha introducido en los ojos, lavarlos con agua durante al menos 15 minutos y buscar asistencia médica inmediata.
+  * Quitarse inmediatamente la ropa contaminada y lavar la piel afectada con agua abundante.
+  * Las personas que hayan estado en contacto con la materia o hayan inhalado emanaciones han de recibir asistencia médica inmediata. Aportar toda la información disponible sobre el producto.
+  * Evitar la reanimación boca a boca. Utilizar otros métodos, preferiblemente con oxígeno o con aparatos con aire comprimido.
+
+
+
+## Precauciones para la recuperación del producto
+
+  * Recoger el producto derramado en un contenedor provisto de venteos y equipado de un filtro de absorción.
+
+
+
+## Precauciones después de la intervención
+
+  1. Ropa contaminada 
+     * Lavar copiosamente con agua el traje y el aparato de respiración contaminados antes de quitarse la máscara y el traje.
+     * Utilizar un traje de protección química y un aparato de respiración autónomo mientras se desviste a los compañeros contaminados o se maneja equipo contaminado.
+     * Contener los vertidos de la operación de lavado o descontaminación.
+  2. Limpieza de equipo 
+     * Solicitar asesoramiento especializado antes de abandonar el lugar del incidente.
+
+

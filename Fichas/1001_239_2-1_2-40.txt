@@ -1,0 +1,77 @@
+Número ONU: 1001
+Nip: 239
+Etiqueta: 2.1
+Materia: ACETILENO DISUELTO
+Número Ficha: 2-40
+
+#  GAS INFLAMABLE Y REACTIVO, DISUELTO A PRESIÓN. 2-40 
+
+2391001
+
+## Características
+
+  * Puede producir espontáneamente una reacción violenta.
+  * Forma una mezcla explosiva con el aire.
+  * Asfixiante: el gas puede asfixiar sin que el afectado lo advierta.
+
+
+
+## Peligros
+
+  * La exposición al calor o un choque puede provocar una descomposición dentro de los recipientes produciendo una elevación espontánea de la temperatura y la presión. Después de haberse extinguido un incendio persiste el riesgo de estallido del recipiente y la explosión de la nube de vapor.
+  * El gas puede ser invisible y puede introducirse en alcantarillas y sótanos o desplazar el aire de los espacios confinados.
+  * El calor puede destruir el estabilizante. Solicitar asesoramiento especializado.
+
+
+
+## Protección personal
+
+  * Aparato de respiración autónomo.
+  * Proteger al personal del calor irradiado con una cortina de agua pulverizada y otras medidas protectoras contra el calor.
+
+
+
+## Intervención
+
+  1. General
+     * Mantenerse en el lado desde donde sopla el viento.
+     * No fumar, eliminar todas las fuentes de ignición.
+     * Trabajar desde una posición protegida para reducir el riesgo del personal. Utilizar monitores o lanzas autónomas.
+     * Reducir al mínimo el número de personas en el área de riesgo.
+     * **PELIGRO PARA LA POBLACIÓN**. Se debe advertir a la población próxima y evacuar inmediatamente el área de peligro.
+     * Advertir a la gente de que abandone y no vuelva a entrar en los sótanos, alcantarillas y otros espacios confinados.
+  2. Derrames
+     * Detener las fugas si es posible.
+     * Comprobar los límites de explosividad.
+     * Utilizar herramientas manuales de baja producción de chispas y equipo intrínsecamente seguro.
+     * Reducir o dispersar la nube de gas con agua pulverizada.
+     * Ventilar las alcantarillas y los sótanos cuando no haya riesgo para el personal o la población.
+  3. Incendio
+     * Mantener el/los recipiente/s refrigerado/s con agua.
+     * No intentar manipular válvulas o retirar los recipientes. Una vez apagado el fuego se debe seguir enfriando los recipientes con agua durante varias horas.
+     * NO extinguir las llamas del gas que se escapa, a menos que sea ABSOLUTAMENTE necesario.
+     * Extinguir con agua pulverizada (spray) o con polvo seco.
+     * Utilizar agua pulverizada, si es posible, para reducir las emanaciones del incendio.
+
+
+
+## Primeros auxilios
+
+  * En caso de quemaduras, enfriar inmediatamente la piel afectada con agua fría durante el máximo tiempo posible. No retirar las prendas adheridas a la piel.
+
+
+
+## Precauciones para la recuperación del producto
+
+  * No utilizar equipo de recuperación estándar. Solicitar inmediatamente asesoramiento especializado.
+
+
+
+## Precauciones después de la intervención
+
+  1. Ropa contaminada 
+     * No son necesarias precauciones especiales.
+  2. Limpieza de equipo 
+     * No requiere precauciones especiales.
+
+

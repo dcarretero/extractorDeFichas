@@ -1,0 +1,75 @@
+Número ONU: 2814
+Nip: 606
+Etiqueta: 6.2
+Materia: MATERIA INFECCIOSA PARA EL SER HUMANO (grupo de riesgo 2)
+Número Ficha: 6-12
+
+#  MATERIA INFECCIOSA. 6-12 
+
+6062814
+
+## Características
+
+  * Peligroso para la piel, los ojos y las vías respiratorias.
+  * Riesgo biológico: infección a seres humanos y/o animales. Riesgo grave de contaminación de suelos y del agua.
+  * Líquido o sólido.
+  * Punto de inflamación por encima de 61ºC o no inflamable.
+
+
+
+## Peligros
+
+  * El calentamiento de los recipientes puede provocar aumento de presión con riesgo de estallido.
+
+
+
+## Protección personal
+
+  * Traje de protección química.
+  * Aparato de respiración autónomo.
+  * Traje hermético a los gases en la proximidad inmediata de la materia o vapor.
+
+
+
+## Intervención
+
+  1. General
+     * Mantenerse en el lado desde donde sopla el viento. Ponerse equipo protector antes de entrar en el área de peligro.
+     * Reducir al mínimo el número de personas en el área de riesgo.
+     * Las personas y animales que puedan haberse contaminado deberán mantenerse aislados hasta que se les someta a reconocimiento médico/veterinario.
+  2. Derrames
+     * Detener las fugas si es posible.
+     * Contener el vertido por cualquier medio disponible.
+     * Absorber el líquido, en arena o tierra o en cualquier otro material apropiado.
+     * Si la materia se ha introducido en una corriente de agua o en una alcantarilla, informar a la autoridad responsable.
+  3. Incendio
+     * Dejar arder los contenedores agrietados. Prevenir el incendio rociando con agua pulverizada.
+     * Minimizar la utilización de medios de extinción y detener los vertidos derivados de su aplicación.
+     * Alejar los recipientes no dañados de la radiación térmica.
+
+
+
+## Primeros auxilios
+
+  * Si la materia se ha introducido en los ojos, lavarlos con agua durante al menos 15 minutos y buscar asistencia médica inmediata.
+  * Quitarse inmediatamente la ropa contaminada y lavar la piel afectada con agua abundante.
+  * Las personas que hayan estado en contacto con la materia o hayan inhalado emanaciones han de recibir asistencia médica inmediata. Aportar toda la información disponible sobre el producto.
+  * Deberán prestar los primeros auxilios únicamente personas provistas de la protección personal adecuada.
+  * Evitar la reanimación boca a boca. Utilizar otros métodos, preferiblemente con oxígeno o con aparatos con aire comprimido.
+
+
+
+## Precauciones para la recuperación del producto
+
+  * Recoger el producto derramado en un contenedor herméticamente sellado.
+
+
+
+## Precauciones después de la intervención
+
+  1. Ropa contaminada 
+     * Solicitar asesoramiento especializado sobre los procedimientos de descontaminación.
+  2. Limpieza de equipo 
+     * Solicitar asesoramiento especializado antes de abandonar el lugar del incidente.
+
+

@@ -1,0 +1,73 @@
+Número ONU: 1451
+Nip: 50
+Etiqueta: 5.1
+Materia: NITRATO DE CESIO
+Número Ficha: 5-03
+
+#  SÓLIDO COMBURENTE. 5-03 
+
+501451
+
+## Características
+
+  * Favorece el incendio.
+
+
+
+## Peligros
+
+  * Emite emanaciones tóxicas e irritantes al calentarse o arder.
+  * El calentamiento de los recipientes puede provocar aumento de presión con riesgo de estallido.
+  * El contacto con materias combustibles puede provocar incendio o explosión.
+  * Las ropas contaminadas suponen un riesgo grave de incendio, especialmente cuando están secas.
+
+
+
+## Protección personal
+
+  * Aparato de respiración autónomo.
+
+
+
+## Intervención
+
+  1. General
+     * Mantenerse en el lado desde donde sopla el viento. Ponerse equipo protector antes de entrar en el área de peligro.
+     * Evitar contacto con materias combustibles (por ejemplo, carburantes).
+  2. Derrames
+     * Detener las fugas si es posible.
+     * Contener el vertido por cualquier medio disponible.
+     * No absorber ni recubrir la materia con serrín ni con cualquier otro material combustible.
+     * No utilizar tapones hechos con materiales orgánicos como madera para detener las fugas.
+     * Si la materia se ha introducido en una corriente de agua o en una alcantarilla, informar a la autoridad responsable.
+  3. Incendio
+     * Mantener el/los recipiente/s refrigerado/s con agua.
+     * Extinguir con chorros de agua.
+     * Utilizar agua pulverizada, si es posible, para reducir las emanaciones del incendio.
+     * Evitar derrames innecesarios como consecuencia de la aplicación de medios de extinción que puedan ser contaminantes.
+
+
+
+## Primeros auxilios
+
+  * Si la materia se ha introducido en los ojos, lavarlos con agua durante al menos 15 minutos y buscar asistencia médica inmediata.
+  * Quitarse inmediatamente la ropa contaminada y lavar la piel afectada con agua abundante.
+  * Las personas que hayan estado en contacto con la materia o hayan inhalado emanaciones han de recibir asistencia médica inmediata. Aportar toda la información disponible sobre el producto.
+
+
+
+## Precauciones para la recuperación del producto
+
+  * No utilizar equipo de recuperación estándar. Solicitar inmediatamente asesoramiento especializado.
+
+
+
+## Precauciones después de la intervención
+
+  1. Ropa contaminada 
+     * Quitarse la ropa contaminada tan pronto como sea posible y antes de abandonar el lugar del incidente.
+  2. Limpieza de equipo 
+     * Empapar con agua antes de su transporte desde el lugar del incidente.
+     * Solicitar asesoramiento especializado tan pronto como sea posible y antes de su reutilización.
+
+

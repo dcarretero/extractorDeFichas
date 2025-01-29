@@ -1,0 +1,80 @@
+Número ONU: 3298
+Nip: 20
+Etiqueta: 2.2
+Materia: ÓXIDO DE ETILENO Y PENTAFLUORETANO EN MEZCLA con un contenido máximo del 7,9% de óxido de etileno
+Número Ficha: 2-01
+
+#  GAS LICUADO NO INFLAMABLE. 2-01 
+
+203298
+
+## Características
+
+  * Peligroso para la piel, los ojos y las vías respiratorias.
+  * Asfixiante: el gas puede asfixiar sin que el afectado lo advierta.
+  * No inflamable.
+
+
+
+## Peligros
+
+  * El calentamiento de los recipientes provoca aumento de presión con riesgo de estallido y liberación inmediata de una nube de vapor expandido que crea una onda de presión.
+  * El contacto con el líquido provoca congelación y daño grave a los ojos.
+  * El gas puede ser invisible y puede introducirse en alcantarillas y sótanos o desplazar el aire de los espacios confinados.
+  * Puede descomponerse cuando se calienta o le afecta un incendio desprendiendo emanaciones irritantes.
+  * Puede ser narcótico y provocar inconsciencia.
+
+
+
+## Protección personal
+
+  * Traje de protección química.
+  * Aparato de respiración autónomo.
+  * Ropa interior aislante y guantes de un tejido grueso o de cuero.
+
+
+
+## Intervención
+
+  1. General
+     * Mantenerse en el lado desde donde sopla el viento.
+     * **PELIGRO PARA LA POBLACIÓN** \- Advertir a la población próxima que permanezca dentro de casa con puertas y ventanas cerradas. Parar cualquier sistema de ventilación. Considerar la posibilidad de evacuación, ante un peligro inmediato.
+     * Reducir al mínimo el número de personas en el área de riesgo.
+     * Advertir a la gente de que abandone y no vuelva a entrar en los sótanos, alcantarillas y otros espacios confinados.
+  2. Derrames
+     * Detener las fugas si es posible.
+     * Reducir o dispersar la nube de gas con agua pulverizada.
+     * Si la materia se ha introducido en una corriente de agua o en una alcantarilla, informar a la autoridad responsable.
+     * Ventilar las alcantarillas y los sótanos cuando no haya riesgo para el personal o la población.
+     * A falta de asesoramiento especializado, dejar que el vertido se evapore. Si no hay ningún riesgo para las personas, facilitar la evaporación con agua pulverizada.
+  3. Incendio
+     * Mantener el/los recipiente/s refrigerado/s con agua.
+     * Trabajar desde una posición protegida para reducir el riesgo del personal. Utilizar monitores o lanzas autónomas.
+     * Utilizar agua pulverizada, si es posible, para reducir las emanaciones del incendio.
+     * Evitar derrames innecesarios como consecuencia de la aplicación de medios de extinción que puedan ser contaminantes.
+
+
+
+## Primeros auxilios
+
+  * Si la materia se ha introducido en los ojos, lavarlos con agua durante al menos 15 minutos y buscar asistencia médica inmediata.
+  * Quitarse inmediatamente la ropa contaminada y lavar la piel afectada con agua abundante.
+  * Las personas que hayan estado en contacto con la materia o hayan inhalado emanaciones han de recibir asistencia médica inmediata. Aportar toda la información disponible sobre el producto.
+  * Descongelar cuidadosamente con agua fría las partes congeladas.
+
+
+
+## Precauciones para la recuperación del producto
+
+  * No utilizar equipo de recuperación estándar. Solicitar inmediatamente asesoramiento especializado.
+
+
+
+## Precauciones después de la intervención
+
+  1. Ropa contaminada 
+     * Lavar copiosamente con agua el traje y el aparato de respiración contaminados antes de quitarse la máscara y el traje.
+  2. Limpieza de equipo 
+     * Empapar con agua antes de su transporte desde el lugar del incidente.
+
+

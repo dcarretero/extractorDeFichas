@@ -1,0 +1,73 @@
+Número ONU: 2448
+Nip: 44
+Etiqueta: 4.1
+Materia: AZUFRE FUNDIDO
+Número Ficha: 4-20
+
+#  SÓLIDO FUNDIDO INFLAMABLE. 4-20 
+
+442448
+
+## Características
+
+  * Peligroso para la piel, los ojos y las vías respiratorias.
+  * Transportado a temperatura elevada.
+
+
+
+## Peligros
+
+  * Emite emanaciones tóxicas e irritantes al calentarse o arder.
+  * El calentamiento de los recipientes puede provocar aumento de presión con riesgo de estallido.
+  * La temperatura de la materia fundida puede estar por encima de su punto de inflamación.
+
+
+
+## Protección personal
+
+  * Traje de protección química.
+  * Aparato de respiración autónomo.
+
+
+
+## Intervención
+
+  1. General
+     * Mantenerse en el lado desde donde sopla el viento.
+  2. Derrames
+     * Detener las fugas si es posible.
+     * Contener el vertido por cualquier medio disponible.
+     * Si la materia se ha introducido en una corriente de agua o en una alcantarilla, informar a la autoridad responsable.
+  3. Incendio
+     * Extinguir con agua pulverizada (spray).
+     * No utilizar chorros de agua para la extinción.
+     * Utilizar agua pulverizada, si es posible, para reducir las emanaciones del incendio.
+     * Evitar derrames innecesarios como consecuencia de la aplicación de medios de extinción que puedan ser contaminantes.
+
+
+
+## Primeros auxilios
+
+  * Si la materia se ha introducido en los ojos, lavarlos con agua durante al menos 15 minutos y buscar asistencia médica inmediata.
+  * Las personas que hayan estado en contacto con la materia o hayan inhalado emanaciones han de recibir asistencia médica inmediata. Aportar toda la información disponible sobre el producto.
+  * En caso de quemaduras, enfriar inmediatamente la piel afectada con agua fría durante el máximo tiempo posible. No retirar las prendas adheridas a la piel.
+  * Quitar inmediatamente las ropas contaminadas y lavar la piel afectada con jabón y agua abundante.
+
+
+
+## Precauciones para la recuperación del producto
+
+  * No utilizar equipo de recuperación estándar. Solicitar inmediatamente asesoramiento especializado.
+
+
+
+## Precauciones después de la intervención
+
+  1. Ropa contaminada 
+     * Lavar copiosamente con agua el traje y el aparato de respiración contaminados antes de quitarse la máscara y el traje.
+     * Utilizar un traje de protección química y un aparato de respiración autónomo mientras se desviste a los compañeros contaminados o se maneja equipo contaminado.
+     * Contener los vertidos de la operación de lavado o descontaminación.
+  2. Limpieza de equipo 
+     * Empapar con agua antes de su transporte desde el lugar del incidente.
+
+

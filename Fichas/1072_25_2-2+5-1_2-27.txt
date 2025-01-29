@@ -1,0 +1,76 @@
+Número ONU: 1072
+Nip: 25
+Etiqueta: 2.2+5.1
+Materia: OXIGENO COMPRIMIDO
+Número Ficha: 2-27
+
+#  GAS COMPRIMIDO COMBURENTE. 2-27 
+
+251072
+
+## Características
+
+  * El gas puede asfixiar sin advertencia previa.
+  * Favorece el incendio.
+  * No inflamable.
+
+
+
+## Peligros
+
+  * El calentamiento de los recipientes provoca aumento de presión con riesgo de estallido y liberación inmediata del gas.
+  * El contacto con materias combustibles puede provocar incendio o explosión.
+  * El gas puede ser invisible y puede introducirse en alcantarillas y sótanos o desplazar el aire de los espacios confinados.
+  * Aumenta el riesgo de incendio de material combustible, en particular de la ropa.
+
+
+
+## Protección personal
+
+  * Aparato de respiración autónomo.
+
+
+
+## Intervención
+
+  1. General
+     * No fumar, eliminar todas las fuentes de ignición.
+     * Mantenerse en el lado desde donde sopla el viento. Ponerse equipo protector antes de entrar en el área de peligro.
+     * Reducir al mínimo el número de personas en el área de riesgo.
+     * Evitar contacto con materias combustibles (por ejemplo, carburantes).
+  2. Derrames
+     * Detener las fugas si es posible.
+     * Reducir o dispersar la nube de gas con agua pulverizada.
+     * No utilizar tapones hechos con materiales orgánicos como madera para detener las fugas.
+     * Si la materia se ha introducido en una corriente de agua o en una alcantarilla, informar a la autoridad responsable.
+     * Ventilar las alcantarillas y los sótanos cuando no haya riesgo para el personal o la población.
+  3. Incendio
+     * Mantener el/los recipiente/s refrigerado/s con agua.
+     * Interrumpir el suministro de gas si se puede realizar con seguridad.
+     * Trabajar desde una posición protegida para reducir el riesgo del personal. Utilizar monitores o lanzas autónomas.
+     * Utilizar agua pulverizada, si es posible, para reducir las emanaciones del incendio.
+     * Evitar derrames innecesarios como consecuencia de la aplicación de medios de extinción que puedan ser contaminantes.
+
+
+
+## Primeros auxilios
+
+  * Si la materia se ha introducido en los ojos, lavarlos con agua durante al menos 15 minutos y buscar asistencia médica inmediata.
+  * Las personas que hayan estado en contacto con la materia o hayan inhalado emanaciones han de recibir asistencia médica inmediata. Aportar toda la información disponible sobre el producto.
+
+
+
+## Precauciones para la recuperación del producto
+
+  * No utilizar equipo de recuperación estándar. Solicitar inmediatamente asesoramiento especializado.
+
+
+
+## Precauciones después de la intervención
+
+  1. Ropa contaminada 
+     * No son necesarias precauciones especiales.
+  2. Limpieza de equipo 
+     * Solicitar asesoramiento especializado tan pronto como sea posible y antes de su reutilización.
+
+

@@ -1,0 +1,90 @@
+Número ONU: 2977
+Nip: 7-
+Etiqueta: 7X+7E+8
+Materia: MATERIALES RADIACTIVOS, HEXAFLUORURO DE URANIO, FISIONABLE
+Número Ficha: 7-04
+
+# MATERIAL RADIACTIVO (HEXAFLUORURO DE URANIO) FISIONABLE Y NO FISIONABLE.
+
+7-2977
+
+## Características
+
+  * Material radioactivo dispersable en forma gaseosa o pulverulenta.
+  * Reacciona con el agua y el vapor del agua del aire para formar fluoruro de hidrógeno gaseoso que es altamente tóxico y corrosivo y un residuo blanco soluble extremadamente irritante y corrosivo.
+
+
+
+## Peligros
+
+  * Riesgo de irradiación muy bajo.
+  * Riesgo de contaminación solo en caso de daño en los bultos.
+  * Debido a su alta toxicidad y corrosividad, si se inhala puede ser letal.
+  * El contacto directo causa quemaduras químicas en la piel, los ojos y el aparato respiratorio.
+  * El calentamiento del/de los recipiente/s provocará aumento de presión con riesgo de estallido y la consiguiente explosión (BLEVE)
+  * El material puede reaccionar violentamente con materias combustibles (maderas, papeles, aceites, etc..)
+
+
+
+## Protección personal
+
+  * Traje de protección química.
+  * Aparato de respiración autónomo.
+
+
+
+## Intervención
+
+  1. General
+     * **PELIGRO PARA LA POBLACION**. Advertir a la población próxima que permanezca dentro de sus casas conpuertas y ventanas cerradas. Parar cualquier sistema de ventilación. Considerar la posibilidad de evacuación.
+     * Mantenerse en el lado desde donde sopla el viento. Ponerse equipo protector antes de entrar en el área de peligro
+     * Reducir al mínimo el número de personas en el área de riesgo.
+     * Requerir el nombre y la dirección de las personas que han estado expuestas al material.
+     * Acotar la zona de riesgo y controlar los accesos, en un radio aproximado de 25 a 50 metros, en el caso de salida de bultos del vehículo, derrame o fuga.
+     * No fumar, eliminar todas las fuentes de ignición.
+     * Reducir al mínimo imprescindible el personal de intervención y limitar su tiempo de permanencia.
+  2. Derrames
+     * No tocar los bultos dañados o el material derramado.
+     * Reducir la nube de vapor con agua pulverizada.
+     * De ser posible, utilizar C02 o dióxido de carbono sólido (hielo seco) para congelar la fuga en su origen.
+     * Evitar el contacto con materiales combustibles.
+     * Evitar la escorrentía del agua, fabricando diques de contención.
+     * Si la materia se ha introducido en una corriente de agua o en una alcantarilla, informar a la autoridad responsable.
+  3. Incendio
+     * Retirar los contenedores no dañados del área del fuego si puede hacerse sin riesgos
+     * Esta materia no es combustible.
+     * Para apagar fuegos pequeños, usar polvo extintor o C02.
+     * Para apagar fuegos grandes, usar agua pulverizada, espuma o neblina.
+     * No usar chorro de agua o espuma directamente sobre los bultos.
+     * Refrigerar los contenedores expuestos a las llamas con cantidades inundantes de agua, hasta bastante después de que se haya apagado el incendio. Si esto es imposible, salir de la zona y dejar que arda el fuego.
+     * Siempre mantenerse alejado de los extremos de los contenedores.
+
+
+
+## Primeros auxilios
+
+  * Dar prioridad al rescate y atención médica de las víctimas, la contaminación nunca será un problema grave. Los problemas médicos tienen prioridad sobre los radiológicos.
+  * En caso de contacto con la sustancia, lavar inmediatamente con agua ojos y piel durante al menos 20 minutos.
+  * Cubrir la camilla con un plástico y colocar al herido sobre una sábana o manta, si es posible.
+  * Informar al personal médico que las personas lesionadas pueden estar contaminadas con material radiactivo,para que adopten las medidas necesarias para evitar la dispersión de la contaminación.
+
+
+
+## Precauciones para la recuperación del producto
+
+  * Solicitar asesoramiento a personal especializado en protección radiológica.
+
+
+
+## Precauciones después de la intervención
+
+  1. Ropa contaminada 
+     * Lavar copiosamente con agua el traje y el aparato de respiración contaminados antes de quitarse la máscara y el traje.
+     * Utilizar un traje de protección química y un aparato de respiración autónomo mientras se desviste a los compañeros contaminados o se maneja equipo contaminado.
+     * Contener los vertidos de la descontaminación.
+     * Introducir la ropa contaminada en bolsas de plástico.
+  2. Limpieza de equipo 
+     * Empapar con agua y solicitar asesoramiento especializado antes de su transporte desde el lugar del incidente.
+     * Cubrirlo con plásticos.
+
+

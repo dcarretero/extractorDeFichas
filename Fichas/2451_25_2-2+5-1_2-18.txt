@@ -1,0 +1,85 @@
+Número ONU: 2451
+Nip: 25
+Etiqueta: 2.2+5.1
+Materia: TRIFLUORURO DE NITRÓGENO
+Número Ficha: 2-18
+
+#  GAS LICUADO COMBURENTE. 2-18 
+
+252451
+
+## Características
+
+  * Peligroso para la piel, los ojos y las vías respiratorias.
+  * El gas puede asfixiar sin advertencia previa.
+  * Favorece el incendio.
+  * No inflamable.
+  * El gas es absorbido o fácilmente dispersado mediante agua en forma de niebla o chorro.
+
+
+
+## Peligros
+
+  * El calentamiento de los recipientes provoca aumento de presión con riesgo de estallido y liberación inmediata de una nube de vapor expandido que crea una onda de presión.
+  * El contacto con el líquido provoca congelación y daño grave a los ojos.
+  * El contacto con materias combustibles puede provocar incendio o explosión.
+  * El gas puede ser invisible y puede introducirse en alcantarillas y sótanos o desplazar el aire de los espacios confinados.
+  * Aumenta el riesgo de incendio de material combustible, en particular de la ropa.
+
+
+
+## Protección personal
+
+  * Traje de protección química.
+  * Aparato de respiración autónomo.
+  * Ropa interior aislante y guantes de un tejido grueso o de cuero.
+
+
+
+## Intervención
+
+  1. General
+     * No fumar, eliminar todas las fuentes de ignición.
+     * Mantenerse en el lado desde donde sopla el viento. Ponerse equipo protector antes de entrar en el área de peligro.
+     * Reducir al mínimo el número de personas en el área de riesgo.
+     * Evitar contacto con materias combustibles (por ejemplo, carburantes).
+  2. Derrames
+     * Detener las fugas si es posible.
+     * Reducir o dispersar la nube de gas con agua pulverizada.
+     * No utilizar tapones hechos con materiales orgánicos como madera para detener las fugas.
+     * Si la materia se ha introducido en una corriente de agua o en una alcantarilla, informar a la autoridad responsable.
+     * Ventilar las alcantarillas y los sótanos cuando no haya riesgo para el personal o la población.
+     * A falta de asesoramiento especializado, dejar que el vertido se evapore. Si no hay ningún riesgo para las personas, facilitar la evaporación con agua pulverizada.
+  3. Incendio
+     * Mantener el/los recipiente/s refrigerado/s con agua.
+     * Interrumpir el suministro de gas si se puede realizar con seguridad.
+     * Trabajar desde una posición protegida para reducir el riesgo del personal. Utilizar monitores o lanzas autónomas.
+     * Utilizar agua pulverizada, si es posible, para reducir las emanaciones del incendio.
+     * Evitar derrames innecesarios como consecuencia de la aplicación de medios de extinción que puedan ser contaminantes.
+
+
+
+## Primeros auxilios
+
+  * Si la materia se ha introducido en los ojos, lavarlos con agua durante al menos 15 minutos y buscar asistencia médica inmediata.
+  * Quitarse inmediatamente la ropa contaminada y lavar la piel afectada con agua abundante.
+  * Las personas que hayan estado en contacto con la materia o hayan inhalado emanaciones han de recibir asistencia médica inmediata. Aportar toda la información disponible sobre el producto.
+  * Descongelar cuidadosamente con agua fría las partes congeladas.
+
+
+
+## Precauciones para la recuperación del producto
+
+  * No utilizar equipo de recuperación estándar. Solicitar inmediatamente asesoramiento especializado.
+
+
+
+## Precauciones después de la intervención
+
+  1. Ropa contaminada 
+     * Lavar copiosamente con agua el traje y el aparato de respiración contaminados antes de quitarse la máscara y el traje.
+  2. Limpieza de equipo 
+     * Empapar con agua antes de su transporte desde el lugar del incidente.
+     * Solicitar asesoramiento especializado tan pronto como sea posible y antes de su reutilización.
+
+

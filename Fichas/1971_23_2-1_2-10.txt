@@ -1,0 +1,81 @@
+Número ONU: 1971
+Nip: 23
+Etiqueta: 2.1
+Materia: METANO COMPRIMIDO o GAS NATURAL (de alto contenido en metano) COMPRIMIDO
+Número Ficha: 2-10
+
+#  GAS COMPRIMIDO INFLAMABLE. 2-10 
+
+231971
+
+## Características
+
+  * Forma una mezcla explosiva con el aire.
+  * Asfixiante: el gas puede asfixiar sin que el afectado lo advierta.
+
+
+
+## Peligros
+
+  * El calentamiento de los recipientes provoca aumento de presión con riesgo de estallido y liberación inmediata del gas, que puede incendiarse.
+  * Emite emanaciones tóxicas e irritantes al calentarse o arder.
+  * El gas puede ser invisible y puede introducirse en alcantarillas y sótanos o desplazar el aire de los espacios confinados.
+
+
+
+## Protección personal
+
+  * Aparato de respiración autónomo.
+  * Proteger al personal del calor irradiado con una cortina de agua pulverizada y otras medidas protectoras contra el calor.
+
+
+
+## Intervención
+
+  1. General
+     * Mantenerse en el lado desde donde sopla el viento.
+     * No fumar, eliminar todas las fuentes de ignición.
+     * **PELIGRO PARA LA POBLACIÓN** \- Advertir a la población próxima que permanezca dentro de casa con puertas y ventanas cerradas. Parar cualquier sistema de ventilación. Considerar la posibilidad de evacuación ante un peligro inmediato.
+     * Reducir al mínimo el número de personas en el área de riesgo.
+     * Advertir a la gente de que abandone y no vuelva a entrar en los sótanos, alcantarillas y otros espacios confinados.
+  2. Derrames
+     * Detener las fugas si es posible.
+     * Comprobar los límites de explosividad.
+     * Utilizar herramientas manuales de baja producción de chispas y equipo intrínsecamente seguro.
+     * Reducir o dispersar la nube de gas con agua pulverizada.
+     * Si la materia se ha introducido en una corriente de agua o en una alcantarilla, informar a la autoridad responsable.
+     * Ventilar las alcantarillas y los sótanos cuando no haya riesgo para el personal o la población.
+  3. Incendio
+     * Mantener el/los recipiente/s refrigerado/s con agua.
+     * Interrumpir el suministro de gas si se puede realizar con seguridad.
+     * NO extinguir las llamas del gas que se escapa, a menos que sea ABSOLUTAMENTE necesario.
+     * Trabajar desde una posición protegida para reducir el riesgo del personal. Utilizar monitores o lanzas autónomas.
+     * Extinguir con agua pulverizada (spray) o con polvo seco.
+     * No utilizar chorros de agua para la extinción.
+     * Utilizar agua pulverizada, si es posible, para reducir las emanaciones del incendio.
+     * Evitar derrames innecesarios como consecuencia de la aplicación de medios de extinción que puedan ser contaminantes.
+
+
+
+## Primeros auxilios
+
+  * Si la materia se ha introducido en los ojos, lavarlos con agua durante al menos 15 minutos y buscar asistencia médica inmediata.
+  * Las personas que hayan estado en contacto con la materia o hayan inhalado emanaciones han de recibir asistencia médica inmediata. Aportar toda la información disponible sobre el producto.
+  * En caso de quemaduras, enfriar inmediatamente la piel afectada con agua fría durante el máximo tiempo posible. No retirar las prendas adheridas a la piel.
+
+
+
+## Precauciones para la recuperación del producto
+
+  * No utilizar equipo de recuperación estándar. Solicitar inmediatamente asesoramiento especializado.
+
+
+
+## Precauciones después de la intervención
+
+  1. Ropa contaminada 
+     * No son necesarias precauciones especiales.
+  2. Limpieza de equipo 
+     * No requiere precauciones especiales.
+
+

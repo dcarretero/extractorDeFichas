@@ -1,0 +1,96 @@
+Número ONU: 3120
+Nip: 539
+Etiqueta: 5.2
+Materia: PERÓXIDO ORGÁNICO DE TIPO F, SÓLIDO, CON REGULACIÓN DE TEMPERATURA
+Número Ficha: 5-09
+
+#  PEROXIDO ORGÁNICO INFLAMABLE. 5-09 
+
+5393120
+
+## Características
+
+  * Peligroso para la piel, los ojos y las vías respiratorias.
+  * Puede producir espontáneamente una reacción violenta.
+  * Punto de inflamación por debajo de 61ºC.
+  * Favorece el incendio.
+  * El calentamiento o un golpe mecánico puede provocar su descomposición, lo que puede producir una explosión o una reacción violenta.
+  * Miscible con agua (más del 10%) o más pesado que el agua.
+  * Líquido o sólido.
+
+
+
+## Peligros
+
+  * El calentamiento del/de los recipiente/s provocará aumento de presión con riesgo de estallido y la consiguiente explosión (BLEVE).
+  * La exposición al calor, la luz, un golpe mecánico o el contacto con otros productos químicos provoca el aumento espontáneo de presión o la auto ignición.
+  * Puede formar una mezcla explosiva con el aire.
+  * Emite emanaciones tóxicas e irritantes al calentarse o arder.
+  * El contacto con materias combustibles puede provocar incendio o explosión.
+  * Las ropas contaminadas suponen un riesgo grave de incendio, especialmente cuando están secas.
+  * El vapor puede ser invisible y es más pesado que el aire. Se difunde a ras de suelo y puede introducirse en alcantarillas y sótanos.
+  * El calor puede destruir el estabilizante. Solicitar asesoramiento especializado.
+
+
+
+## Protección personal
+
+  * Traje de protección química.
+  * Aparato de respiración autónomo.
+  * Considerar utilizar ropa normalizada para lucha contra el fuego, además del traje.
+
+
+
+## Intervención
+
+  1. General
+     * No fumar, eliminar todas las fuentes de ignición.
+     * Trabajar desde una posición protegida para reducir el riesgo del personal. Utilizar monitores o lanzas autónomas.
+     * Mantenerse en el lado desde donde sopla el viento. Ponerse equipo protector antes de entrar en el área de peligro.
+     * Reducir al mínimo el número de personas en el área de riesgo.
+     * Evitar contacto con materias combustibles (por ejemplo, carburantes).
+  2. Derrames
+     * Detener las fugas si es posible.
+     * Contener el vertido por cualquier medio disponible.
+     * Utilizar herramientas manuales de baja producción de chispas y equipo intrínsecamente seguro.
+     * Si la materia es un líquido, comprobar los límites de explosividad.
+     * Absorber la materia con arena o tierra o con cualquier otro material adecuado, o recubrir con espuma resistente al alcohol.
+     * No absorber ni recubrir la materia con serrín ni con cualquier otro material combustible.
+     * No utilizar tapones hechos con materiales orgánicos como madera para detener las fugas.
+     * Si la materia se ha introducido en una corriente de agua o en una alcantarilla, informar a la autoridad responsable.
+     * Ventilar las alcantarillas y los sótanos cuando no haya riesgo para el personal o la población.
+  3. Incendio
+     * Mantener el/los recipiente/s refrigerado/s con agua.
+     * Extinguir con espuma resistente al alcohol si se dispone de ella, o con agua pulverizada (spray).
+     * No utilizar chorros de agua ni polvo seco para la extinción.
+     * Utilizar agua pulverizada, si es posible, para reducir las emanaciones del incendio.
+     * Evitar derrames innecesarios como consecuencia de la aplicación de medios de extinción que puedan ser contaminantes.
+
+
+
+## Primeros auxilios
+
+  * Si la materia se ha introducido en los ojos, lavarlos con agua durante al menos 15 minutos y buscar asistencia médica inmediata.
+  * Quitarse inmediatamente la ropa contaminada y lavar la piel afectada con agua abundante.
+  * Las personas que hayan estado en contacto con la materia o hayan inhalado emanaciones han de recibir asistencia médica inmediata. Aportar toda la información disponible sobre el producto.
+  * En caso de quemaduras, enfriar inmediatamente la piel afectada con agua fría durante el máximo tiempo posible. No retirar las prendas adheridas a la piel.
+
+
+
+## Precauciones para la recuperación del producto
+
+  * No utilizar equipo de recuperación estándar. Solicitar inmediatamente asesoramiento especializado.
+
+
+
+## Precauciones después de la intervención
+
+  1. Ropa contaminada 
+     * Lavar copiosamente con agua el traje y el aparato de respiración contaminados antes de quitarse la máscara y el traje.
+     * Utilizar un traje de protección química y un aparato de respiración autónomo mientras se desviste a los compañeros contaminados o se maneja equipo contaminado.
+     * Contener los vertidos de la operación de lavado o descontaminación.
+  2. Limpieza de equipo 
+     * Empapar con agua antes de su transporte desde el lugar del incidente.
+     * Solicitar asesoramiento especializado tan pronto como sea posible y antes de su reutilización.
+
+

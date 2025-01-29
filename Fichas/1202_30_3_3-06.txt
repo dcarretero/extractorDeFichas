@@ -1,0 +1,77 @@
+Número ONU: 1202
+Nip: 30
+Etiqueta: 3
+Materia: COMBUSTIBLES PARA MOTORES DIESEL o GASÓLEO o ACEITE MINERAL PARA CALDEO LIGERO
+Número Ficha: 3-06
+
+#  LIQUIDO INFLAMABLE. 3-06 
+
+301202
+
+## Características
+
+  * Peligroso para los ojos y vías respiratorias.
+  * Inmiscible o parcialmente miscible con agua (menos del 10%), más ligero que el agua.
+  * Punto de inflamación por encima de 61ºC, puede arder.
+
+
+
+## Peligros
+
+  * El calentamiento del/de los recipiente/s provocará aumento de presión con riesgo de estallido y la consiguiente explosión (BLEVE).
+  * Emite emanaciones tóxicas e irritantes al calentarse o arder.
+  * Puede formar mezcla explosiva con el aire a una temperatura ambiente elevada.
+  * Susceptible de combustión espontánea.
+  * El vapor puede ser invisible y es más pesado que el aire. Se difunde a ras de suelo y puede introducirse en alcantarillas y sótanos.
+
+
+
+## Protección personal
+
+  * Aparato de respiración autónomo.
+
+
+
+## Intervención
+
+  1. General
+     * Mantenerse en el lado desde donde sopla el viento.
+  2. Derrames
+     * Detener las fugas si es posible.
+     * Contener el vertido por cualquier medio disponible.
+     * Absorber el líquido, en arena o tierra o en cualquier otro material apropiado.
+     * Si la materia se ha introducido en una corriente de agua o en una alcantarilla, informar a la autoridad responsable.
+     * Ventilar las alcantarillas y los sótanos cuando no haya riesgo para el personal o la población.
+  3. Incendio
+     * Mantener el/los recipiente/s refrigerado/s con agua.
+     * Extinguir con espuma - polvo seco, y a continuación proteger con una capa de espuma.
+     * No utilizar chorros de agua o agua pulverizada (spray) para la extinción.
+     * Utilizar agua pulverizada, si es posible, para reducir las emanaciones del incendio.
+     * Evitar derrames innecesarios como consecuencia de la aplicación de medios de extinción que puedan ser contaminantes.
+
+
+
+## Primeros auxilios
+
+  * Si la materia se ha introducido en los ojos, lavarlos con agua durante al menos 15 minutos y buscar asistencia médica inmediata.
+  * Las personas que hayan estado en contacto con la materia o hayan inhalado emanaciones han de recibir asistencia médica inmediata. Aportar toda la información disponible sobre el producto.
+  * En caso de quemaduras, enfriar inmediatamente la piel afectada con agua fría durante el máximo tiempo posible. No retirar las prendas adheridas a la piel.
+  * Quitar inmediatamente las ropas contaminadas y lavar la piel afectada con jabón y agua abundante.
+
+
+
+## Precauciones para la recuperación del producto
+
+  * Asegurar la toma de tierra adecuada del equipo de bombeo.
+  * Utilizar equipo resistente a los aceites minerales.
+
+
+
+## Precauciones después de la intervención
+
+  1. Ropa contaminada 
+     * Quitarse la ropa contaminada tan pronto como sea posible y antes de abandonar el lugar del incidente.
+  2. Limpieza de equipo 
+     * Empapar con agua/detergente antes de su transporte desde el lugar del incidente.
+
+

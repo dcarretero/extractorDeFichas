@@ -1,0 +1,78 @@
+Número ONU: 0482
+Nip: 
+Etiqueta: 1.5
+Materia: MATERIAS EXPLOSIVAS MUY POCO SENSIBLES (SUSTANCIAS EMI), N.E.P.
+Número Ficha: 1-05
+
+#  MATERIAS Y OBJETOS EXPLOSIVOS (CLASE 1) MATERIAS MUY POCO SENSIBLES CON RIESGO DE EXPLOSIÓN EN MASA (DIVISIÓN 1.5) 
+
+0482
+
+## Características
+
+  * Materias muy poco sensibles y con muy reducida probabilidad de cebado o de que su combustión se transforme en detonación, en cuyo caso se produciría su explosión en masa. No deben explotar cuando están sometidas a un fuego exterior. (Como por ejemplo; explosivos de minas para voladuras.)
+
+
+
+## Peligros
+
+  * Riesgo muy reducido (No deben explotar ante un incendio exterior) de explosión en masa en cuyo caso se producirá una violenta explosión afectando instantáneamente a toda la carga, cuya onda puede causar graves daños en un área de varios cientos de metros.
+
+
+
+## Protección personal
+
+  * Equipo de protección ante las proyecciones.
+
+
+
+## Intervención
+
+  1. General
+     * **POSIBLE PELIGRO PARA LA POBLACIÓN**. Se debe advertir a la población próxima. Considerar la posibilidad de evacuación.
+     * Establecer inmediatamente una zona de seguridad y hacer uso de una posición protegida.
+     * Reducir al mínimo el número de personas en el área de riesgo.
+     * No fumar.
+     * No usar aparatos eléctricos en las proximidades de la carga.
+     * Evitar y eliminar toda fuente de llama, calor o cualquier elemento que pueda producir chispas.
+     * No tocar materias u objetos caídos o proyectados.
+     * Buscar inmediatamente asesoramiento de un experto.
+  2. Derrames
+     * Acotar la zona del vertido. Evitar el paso de vehículos o personas.
+     * No pisar el vertido.
+     * Evitar choques y fricciones, golpes y movimientos bruscos.
+     * Evitar que el producto vertido llegue al medio natural.
+     * No tocar ni retirar el material, hasta conocer el procedimiento adecuado.
+  3. Incendio
+     * Advertir a la población más próxima y evacuar un área de riesgo de al menos 1.000 metros de radio.
+     * Mantener el área vigilada y despejada al menos 6 horas.
+     * AFECTA A LA CARGA.
+       * No apagar el fuego, dejarlo arder, respetando los servicios de intervención una distancia de 500m.
+     * SOLO SI EL INCENDIO NO AFECTA LA CARGA.
+       * Trabajar desde una posición protegida para reducir el riesgo del personal. Utilizar los medios disponibles para extinguir el incendio, es recomendable el uso de monitores o lanzas autónomas.
+       * Evitar que afecte a la carga.
+
+
+
+## Primeros auxilios
+
+  * En caso de quemaduras, enfriar inmediatamente la piel afectada con agua fría durante el máximo tiempo posible. No retirar las prendas adheridas a la piel.
+
+
+
+## Precauciones para la recuperación del producto
+
+  * Recoger manualmente el producto vertido, usando herramientas que no provoquen chispas de material no ferroso, como cobre, latón o madera.
+  * En caso de rotura de embalaje, cerrar éste con cinta adhesiva. Depositar los restos en bolsas de plástico, y éstas en cajas de cartón o envases similares a los originales, que se cierran con cinta adhesiva o cualquier otro medio adecuado .
+  * Depositar los restos en lugar ventilado y lejos de productos ácidos, inflamables, oxidantes, etc. hasta el momento de su traslado, que se efectuará de acuerdo con el asesoramiento especializado correspondiente.
+
+
+
+## Precauciones después de la intervención
+
+  1. Ropa contaminada 
+     * No son necesarias precauciones especiales concluida la intervención.
+  2. Limpieza de equipo 
+     * No requiere precauciones especiales.
+
+
