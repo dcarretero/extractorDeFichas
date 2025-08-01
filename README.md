@@ -1,4 +1,4 @@
-# extractorDeFichas
+# Extractor De Fichas
 
 Este proyecto permite extraer y procesar información de fichas de seguridad química almacenadas en la carpeta [`Fichas/`](Fichas). El script principal es [`extractorDeFichas.py`](extractorDeFichas.py).
 
